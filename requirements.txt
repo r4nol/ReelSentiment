@@ -1,0 +1,6 @@
+transformers
+datasets
+nltk
+torch
+numpy
+evaluate
